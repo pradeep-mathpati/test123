@@ -1,0 +1,17 @@
+# Project description file
+
+project.name=Test22
+project.version=8.8
+project.original.version=8.8
+product.name=NeoLoad
+product.original.name=NeoLoad
+ssh.trustUnknownHosts.MONITORS=false
+monitor.tls.insecure=false
+product.version=2023.3.0
+product.original.version=2023.3.0
+project.is-open-test-settings-after-upload=false
+project.id=439ccd58-b308-4c7d-8996-1d03d8c5cf6f
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=/pradeep-mathpati/test123.git
